@@ -1,0 +1,12 @@
+:root {
+    /* Verde do botão/sucesso */
+    --primary-color: #2ECC71;
+    /* Vermelho do erro */
+    --error-color: #E74C3C;
+    /* outras cores */
+    --text-dark: #4A4A4A;
+    --text-light: #ffffffde;
+    --placeholder-color: #9B9B9B;
+    --input-border-color: #0b0b0b;
+    --bg-white: #FFFFFF;
+}
