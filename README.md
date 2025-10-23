@@ -54,6 +54,10 @@ Você só precisa de um navegador web moderno (Chrome, Firefox, Edge, etc.) para
 
 ## 🧑‍💻 Autor
 
+| Autor | GitHub | LinkedIn |
+| :--- | :--- | :--- |
+| **[SEU NOME/APELIDO]** | [Seu Perfil do GitHub](URL_DO_SEU_GITHUB) | [Seu Perfil do LinkedIn](URL_DO_SEU_LINKEDIN) |
+
 | Autor | GitHub | 
 | :--- | :--- |         
 
