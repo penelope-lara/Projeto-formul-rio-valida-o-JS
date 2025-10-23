@@ -54,10 +54,11 @@ Você só precisa de um navegador web moderno (Chrome, Firefox, Edge, etc.) para
 
 ## 🧑‍💻 Autor
 
-| Autor | GitHub | 
-| :--- | :--- |         
-| **Penelope Lara** | [penelope-lara](https://github.com/penelope-lara | 
+| Autor | GitHub |
+| :--- | :--- |
+| **Penelope Lara** | [penelope-lara](https://github.com/penelope-lara) |
 
 ---
+
 
 <p align="center">Feito por Penelope Lara Lopes</p>
