@@ -55,7 +55,7 @@ Você só precisa de um navegador web moderno (Chrome, Firefox, Edge, etc.) para
 ## 🧑‍💻 Autor
 
 | Autor | GitHub | 
-| :--- | :--- | :--- |        
+| :--- | :--- |         
 
 | **Penelope Lara** | | [Seu Perfil](https://github.com/penelope-lara) | 
 
